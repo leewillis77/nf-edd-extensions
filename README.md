@@ -1,2 +1,5 @@
-# nf-edd-extensions
-Ninja Forms fields for Easy Digital Downloads sites.
+# Ninja Forms Easy Digital Downloads Extensions
+
+Some Ninja Forms fields that you may find usefuil for Easy Digital Downloads sites.
+
+# THIS IS A WORK IN PROGRESS - DO NOT USE
